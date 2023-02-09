@@ -25,22 +25,26 @@
 5. 서울시 보통가구(3600 rows × 7 columns)
 6. 서울시 CCTV설치현황(83734 rows × 7 columns)
 
-### B. 스마트치안빅데이터플랫폼
+#### B. 스마트치안빅데이터플랫폼
 1. 학교폭력(1966 rows × 43 columns)
 2. 청소년비행/학교폭력영향데이터(247 rows × 14 columns) 
 3. 112신고영향요소융(273 rows × 28 columns) 
 
-### C. 공공데이터포털
+#### C. 공공데이터포털
 1. 경찰관서 위치 주소(2037 rows × 8 columns) 
 2. 소상공인진흥공단 상권정보(377724 rows × 39 columns)
 
-### D. 나이스
+#### D. 나이스
 1. 학교기본정보(1421 rows × 25 columns)
 
-### E. 학교알리미(크롤링)
+#### E. 학교알리미(크롤링)
 1. 학교폭력 조사참여 현황
 2. 학교폭력 피해시간
 3. 학교폭력 피해신고현황
 4. 학교폭력 피해유형
 5. 학교폭력 피해장소
 6. 학교폭력 예방교육시간
+
+### **YOLO**
+학습데이터 : roboflow Violence Detection dataset 1500개 이미지 사용
+링크 : https://universe.roboflow.com/nuscrimesocietydatasets/violence-9gmjx
