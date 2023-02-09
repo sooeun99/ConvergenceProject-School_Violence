@@ -4,9 +4,9 @@
 
 주제 : 
 
-팀원 : 
+팀원 
   - 빅데이터 : 박수은, 서혁준, 유영일
-  - 클라우드 : 박예서, 유승지, 이기복
+  - 클라우드 : 박예서(팀장), 유승지, 이기복
   - Iot : 김준무
 
 ### **학교폭력 위험도 지표**
@@ -47,4 +47,5 @@
 
 ### **YOLO**
 학습데이터 : roboflow Violence Detection dataset 1500개 이미지 사용
+
 링크 : https://universe.roboflow.com/nuscrimesocietydatasets/violence-9gmjx
