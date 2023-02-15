@@ -50,6 +50,8 @@ CPTED(셉테드) 범죄예방 디자인 연구센터에 따르면 학교 폭력�
 5. 학교폭력 피해장소
 6. 학교폭력 예방교육시간
 
+## **CPTED 범죄예방디자인연구정보센터 | 학교시설**
+링크 : http://www.cpted.kr/?r=home&c=04/0401/040103
 
 ## **YOLO**
 학습데이터 : roboflow Violence Detection dataset 1500개 이미지 사용
